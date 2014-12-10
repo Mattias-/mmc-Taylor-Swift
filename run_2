@@ -1,0 +1,2 @@
+#!/bin/bash
+python main.py "${MMC_TEAM_NAME}_2" $MMC_KEY $1
